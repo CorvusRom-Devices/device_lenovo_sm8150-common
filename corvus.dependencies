@@ -1,0 +1,8 @@
+[
+ {
+   "remote": "github",
+   "repository": "CorvusRom-Devices/kernel_lenovo_sm8150",
+   "target_path": "kernel/lenovo/sm8150",
+   "branch": "13"
+ }
+]
